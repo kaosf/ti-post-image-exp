@@ -1,0 +1,6 @@
+*.swp
+tmp
+build
+build.log
+.fastdev.lock
+node_modules
